@@ -1,0 +1,11 @@
+# install jupyterthemes
+pip install jupyterthemes
+
+# upgrade to latest version
+pip install --upgrade jupyterthemes
+
+#list theme
+jt -l
+
+#change theme
+jt -t [name]
