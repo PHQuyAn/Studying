@@ -16,3 +16,4 @@ History
 |08/12/2023  | [Higher Order Functions](https://github.com/PHQuyAn/Studying/blob/main/python/Day_7.ipynb) |
 |08/12/2023  | [Python Type Erros](https://github.com/PHQuyAn/Studying/blob/main/python/Day_8.ipynb) |
 |25/12/2023  | [Python Datetime](https://github.com/PHQuyAn/Studying/blob/main/python/Day_9.ipynb) |
+|28/12/2023  | [Exception Handling](https://github.com/PHQuyAn/Studying/blob/main/python/Day_10.ipynb) |
