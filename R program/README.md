@@ -11,5 +11,6 @@ History
 | 1-3      | [Introduction - variables](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Part1-3_self.R)   |
 | 1-4      | [Vector and Factor](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Part1-4_self.R) |
 | 1-5      | [Array - Matrix- Data Frame](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Part1-5_self.R) |
-| 1-6      | [Exercises](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Exercise_Part1-1.R) |
-
+| Ex-1.1      | [Exercises1.2](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Exercise_Part1-1.R) |
+| Ex-1.2      | [Exercises1.2](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Exercise_Part1-2.R) |
+| 1-6      | [Read and Write](https://github.com/PHQuyAn/Studying/blob/main/R%20program/Part1-6_self.R)     |
