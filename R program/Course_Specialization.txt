@@ -1,0 +1,49 @@
+------------DPL302m-------------------
+
+Specializations: https://www.coursera.org/specializations/deep-learning
+5 courses:
+https://www.coursera.org/learn/neural-networks-deep-learning
+https://www.coursera.org/learn/deep-neural-network
+https://www.coursera.org/learn/machine-learning-projects
+https://www.coursera.org/learn/convolutional-neural-networks
+https://www.coursera.org/learn/nlp-sequence-models
+
+Extra Courses:
+https://www.coursera.org/learn/keras-tuner
+https://www.coursera.org/learn/fashion-classification-with-deep-learning
+https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema
+https://www.coursera.org/learn/tensorflow-for-cnns-learn-and-practice-cnns
+
+------------DSR301m-----------
+Specializations: https://www.coursera.org/programs/fptu-summer-2023-lsica/specializations/applied-data-science-r
+5 Courses
+https://www.coursera.org/programs/fptu-summer-2023-lsica/learn/introducton-r-programming-data-science
+https://www.coursera.org/programs/fptu-summer-2023-lsica/learn/sql-data-science-r
+https://www.coursera.org/programs/fptu-summer-2023-lsica/learn/data-analysis-with-r
+https://www.coursera.org/programs/fptu-summer-2023-lsica/learn/data-visualization-r
+https://www.coursera.org/programs/fptu-summer-2023-lsica/learn/data-science-with-r-capstone-project
+
+------------BDI302c-----------
+Specializations: https://www.coursera.org/specializations/big-data
+5 Courses:
+https://www.coursera.org/learn/big-data-introduction
+https://www.coursera.org/learn/big-data-management
+https://www.coursera.org/learn/big-data-integration-processing
+https://www.coursera.org/learn/big-data-machine-learning
+https://www.coursera.org/learn/big-data-graph-analytics
+
+------------DWP301c-----------
+13 Courses
+https://www.coursera.org/learn/introduction-to-cloud
+https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript/
+https://www.coursera.org/learn/getting-started-with-git-and-github
+https://www.coursera.org/learn/developing-frontend-apps-with-react/
+https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express/
+https://www.coursera.org/learn/python-for-applied-data-science-ai
+https://www.coursera.org/learn/python-project-for-ai-application-development/
+https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django
+https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift
+https://www.coursera.org/learn/applications-development-microservices-serverless-openshift
+https://www.coursera.org/learn/ibm-cloud-native-full-stack-development-capstone/
+https://www.coursera.org/learn/full-stack-software-developer-assessment
+https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?language=en_US
